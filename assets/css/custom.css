@@ -280,6 +280,20 @@
    FOOTER LOGOS
 ========================= */
 
+.footer {
+    box-sizing: border-box;
+    position: static;
+    width: 100%;
+    margin: 64px 0 0;
+    background-color: #782F40;
+    color: white;
+}
+
+body,
+body.blog-post.has-post-navigation {
+    margin-bottom: 0;
+}
+
 .footer-logos {
     display: flex;
     gap: 20px;
