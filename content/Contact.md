@@ -7,8 +7,10 @@ hideTitle: true
 
 SUMMEER is a joint-organization led by three university faculty from Florida A&M University-Florida State University (FAMU-FSU), California Polytechnic State University (Cal Poly), and the University of Illinois at Chicago (UIC). We do not have any physical address, but we invite you to contact any of the three directors directly, or please fill out the form below.
 
+You can also directly email us at [summeer@eng.famu.fsu.edu](mailto:summeer@eng.famu.fsu.edu).
 
-<form action="https://formsubmit.co/YOUR_EMAIL_HERE" method="POST">
+
+<form action="https://formsubmit.co/summeeradmin@gmail.com" method="POST">
 Full name
   <input type="text" name="name" placeholder="Your name" required
   style="width:100%; padding:12px; margin-bottom:15px;">
