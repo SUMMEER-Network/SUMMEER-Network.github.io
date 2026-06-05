@@ -12,6 +12,20 @@
     background: var(--header-menu-bg-light);
 }
 
+html {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main#content {
+    flex: 1 0 auto;
+}
+
 .home-cover {
     margin: 0 calc(50% - 50vw) 48px;
 }
@@ -282,6 +296,7 @@
 
 .footer {
     box-sizing: border-box;
+    flex-shrink: 0;
     position: static;
     width: 100%;
     margin: 64px 0 0;
