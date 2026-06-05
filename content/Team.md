@@ -46,16 +46,15 @@ hideTitle: true
 
 <div class="responsive-row team-member">
   <div class="responsive-text team-photo">
-    <img src="https://today.uic.edu/wp-content/uploads/2018/10/id_pic.jpg" alt="Example" style="height:150px; border-radius:50%">
+    <img src="https://faculty.lsu.edu/skameshwar/images/kameshwar.jpg" alt="Example" style="height:150px; border-radius:50%">
   </div>
 
   <div class="responsive-image team-details">
-    <h2>Sybil Derrible</h2>
+    <h2>Sabarethinam Kameshwar</h2>
     <ul>
         <li>Co-Principal Investigator</li>
-        <li>Professor at <a href = "https://cme.uic.edu/profiles/sybilderrible/">University of Illinois Chicago</a></li>
-        <li><a href = "mailto:derrible@uic.edu">derrible@uic.edu</a></li>
-        <li><a href = "https://sybilderrible.com/">Website</a></li>
+        <li>Professor at <a href = "https://www.lsu.edu/eng/cee/people/kameshwar.php">Louisiana State University</a></li>
+        <li><a href = "mailto:skameshwar1@lsu.edu">skameshwar1@lsu.edu</a></li>
     </ul>
   </div>
 </div>
